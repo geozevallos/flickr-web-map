@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.1" xmlns:flickr="urn:flickr:">
+
+
+<NetworkLinkControl>
+	<minRefreshPeriod>900</minRefreshPeriod>
+</NetworkLinkControl>
+
+<Document>
+
+	<name>Recent Uploads tagged bird, with geodata</name>
+	<open>1</open>
+
+	
+	
+	<Style id="normal/photo/52715521374">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52715521374_d5d668723d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52715521374">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52715521374_d5d668723d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52715521374">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52715521374</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52715521374</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52715034093">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52715034093_e9b6fa5eee_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52715034093">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52715034093_e9b6fa5eee_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52715034093">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52715034093</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52715034093</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52714521983">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52714521983_4862c7e7ef_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52714521983">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52714521983_4862c7e7ef_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52714521983">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52714521983</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52714521983</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52713834073">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713834073_3440192b9a_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52713834073">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713834073_3440192b9a_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52713834073">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52713834073</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52713834073</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52712743946">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712743946_0b4f3b62ae_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52712743946">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712743946_0b4f3b62ae_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52712743946">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52712743946</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52712743946</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52713220108">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713220108_06e90e3410_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52713220108">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713220108_06e90e3410_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52713220108">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52713220108</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52713220108</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52713112233">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713112233_038467b629_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52713112233">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52713112233_038467b629_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52713112233">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52713112233</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52713112233</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52712106857">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712106857_171a72f18f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52712106857">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712106857_171a72f18f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52712106857">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52712106857</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52712106857</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52712315138">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712315138_59f0fe4ee3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52712315138">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52712315138_59f0fe4ee3_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52712315138">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52712315138</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52712315138</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52709919057">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709919057_4731594f47_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52709919057">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709919057_4731594f47_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52709919057">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52709919057</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52709919057</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52710211045">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52710211045_6b4eb26bbc_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52710211045">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52710211045_6b4eb26bbc_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52710211045">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52710211045</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52710211045</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52710121145">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52710121145_e96a81679f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52710121145">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52710121145_e96a81679f_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52710121145">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52710121145</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52710121145</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52709941885">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709941885_6560c93e73_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52709941885">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709941885_6560c93e73_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52709941885">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52709941885</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52709941885</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52709582918">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709582918_3166ce9765_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52709582918">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709582918_3166ce9765_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52709582918">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52709582918</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52709582918</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52708551082">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708551082_d370239115_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52708551082">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708551082_d370239115_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52708551082">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52708551082</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52708551082</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52709354268">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709354268_34ca0950d1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52709354268">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52709354268_34ca0950d1_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52709354268">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52709354268</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52709354268</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52708923034">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708923034_15556b9f6d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52708923034">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708923034_15556b9f6d_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52708923034">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52708923034</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52708923034</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52708739828">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708739828_fa14afe93a_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52708739828">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52708739828_fa14afe93a_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52708739828">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52708739828</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52708739828</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52707591667">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52707591667_fd87fcc9ec_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52707591667">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52707591667_fd87fcc9ec_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52707591667">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52707591667</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52707591667</styleUrl>
+      </Pair>
+    </StyleMap>
+	<Style id="normal/photo/52706891184">
+		<LabelStyle>
+			<color>00ffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52706891184_f84a61d4fe_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<Style id="highlight/photo/52706891184">
+		<LabelStyle>
+			<color>ffffffff</color>
+			<scale>1</scale>
+		</LabelStyle>
+		<IconStyle>
+			<scale>2</scale>
+			<hotSpot x="0.5"  y="0.5" xunits="fraction" yunits="fraction"/>
+			<Icon>
+				<href>https://live.staticflickr.com/65535/52706891184_f84a61d4fe_s.jpg</href>
+			</Icon>
+		</IconStyle>
+	</Style>	
+	<StyleMap id="styleMap/photo/52706891184">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#normal/photo/52706891184</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#highlight/photo/52706891184</styleUrl>
+      </Pair>
+    </StyleMap>
+
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52715521374</styleUrl>
+			<name>Common Kingfisher - Alcedo atthis</name>
+			<Snippet maxLines="4">
+				All of the photographs on my gallery are protected by copyright and not to be used for ANYTHING without strict written permission from me, the photographer, Lauren Tucker.<br />
+ <br />
+Website / Facebook / RedBubble / Blog<br />
+ <br />
+Thank-You
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/photographygal123/52715521374/"><img src="https://live.staticflickr.com/65535/52715521374_d5d668723d.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/photographygal123/52715521374/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/photographygal123/52715521374/">Open photo page</a></td></tr></table>
+					All of the photographs on my gallery are protected by copyright and not to be used for ANYTHING without strict written permission from me, the photographer, Lauren Tucker.<br />
+ <br />
+Website / Facebook / RedBubble / Blog<br />
+ <br />
+Thank-You<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 27th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=43898512@N07&amp;format=kml_nl&amp;lang=en-us"><b>Lauren Tucker Photography</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=boa&amp;format=kml_nl&amp;lang=en-us">boa</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bradfordonavon&amp;format=kml_nl&amp;lang=en-us">bradfordonavon</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=kingfisher&amp;format=kml_nl&amp;lang=en-us">kingfisher</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-2.255609,51.344057</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52715034093</styleUrl>
+			<name>A Hooded Merganser Hen</name>
+			<Snippet maxLines="4">
+				On the Harlem Meer, Central Park, New York
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/psoriano/52715034093/"><img src="https://live.staticflickr.com/65535/52715034093_e9b6fa5eee.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/psoriano/52715034093/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/psoriano/52715034093/">Open photo page</a></td></tr></table>
+					On the Harlem Meer, Central Park, New York<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 26th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=192339346@N03&amp;format=kml_nl&amp;lang=en-us"><b>philippe.soriano</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=duck&amp;format=kml_nl&amp;lang=en-us">duck</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=nikon&amp;format=kml_nl&amp;lang=en-us">nikon</a><br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-73.951273,40.795913</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52714521983</styleUrl>
+			<name>Goosanders near English bridge: first viewing</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/davea2007/52714521983/"><img src="https://live.staticflickr.com/65535/52714521983_4862c7e7ef.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/davea2007/52714521983/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/davea2007/52714521983/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 16th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=11758041@N08&amp;format=kml_nl&amp;lang=en-us"><b>Dave_A_2007</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=mergusmerganser&amp;format=kml_nl&amp;lang=en-us">mergusmerganser</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=duck&amp;format=kml_nl&amp;lang=en-us">duck</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=goosander&amp;format=kml_nl&amp;lang=en-us">goosander</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-2.748539,52.706761</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52713834073</styleUrl>
+			<name>Galapagos</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/39333584@N03/52713834073/"><img src="https://live.staticflickr.com/65535/52713834073_3440192b9a.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/39333584@N03/52713834073/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/39333584@N03/52713834073/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> January 15th, 2018&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=39333584@N03&amp;format=kml_nl&amp;lang=en-us"><b>favonius81</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=braunpelikan&amp;format=kml_nl&amp;lang=en-us">braunpelikan</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=brownpelican&amp;format=kml_nl&amp;lang=en-us">brownpelican</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=galapagos&amp;format=kml_nl&amp;lang=en-us">galapagos</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-90.653573,-0.599512</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52712743946</styleUrl>
+			<name>Mésange à longue queue - Aegithalos caudatus</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/dominique_boutigny/52712743946/"><img src="https://live.staticflickr.com/65535/52712743946_0b4f3b62ae.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/dominique_boutigny/52712743946/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/dominique_boutigny/52712743946/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 26th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=9603124@N06&amp;format=kml_nl&amp;lang=en-us"><b>boutigny</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=oiseau&amp;format=kml_nl&amp;lang=en-us">oiseau</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=mesange&amp;format=kml_nl&amp;lang=en-us">mesange</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=mesangealonguequeue&amp;format=kml_nl&amp;lang=en-us">mesangealonguequeue</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>6.223926,45.792843</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52713220108</styleUrl>
+			<name>04 White-lined Tanager female, Asa Wright, Trinidad</name>
+			<Snippet maxLines="4">
+				Continuing to grab a few more photos from my archives. Then, already saved to a hard drive, I can delete them from my computer to make some much-needed free space.<br />
+<br />
+&amp;quot;This adventure was only the second holiday of any kind, anywhere, that I have had in something like 30 or 35 years!  The other holiday was a wonderful, one-week trip with my dear friends from England, Linda and Tony, when we went down south to Yellowstone National Park and the Grand Tetons in September 2012.  I have had maybe half a dozen weekends away, including to Waterton National Park, which have helped keep me going.  <br />
+<br />
+Six birding/photographer friends and I decided that we would take this exciting trip together (from 12-21 March 2017), spending the first two or three days on the island of Tobago and then the rest of the time at the Asa Wright Nature Centre on the nearby, much larger island of Trinidad.  We decided to take a complete package, so everything was included - accommodation at both places, all our food, and the various walks and day trips that we could choose from.  Two of my friends, Anne B. and Brenda, saw to all the planning of flights and accommodations, which was so very much appreciated by the rest of us.  I could never have done all this myself! We were so lucky with our flights, as we were just in time to get Black Friday prices, which were 50% off!  <br />
+<br />
+What a time we had, seeing so many beautiful and interesting things - and, of course, everything was a lifer for me.  Some of these friends had visited Costa Rica before, so were familiar with some of the birds.  There was a lot more to see on Trinidad, so we were glad that we chose Tobago to visit first and then spend a longer time at Asa Wright.  It was wonderful to be right by the sea, though, at the Blue Waters Inn on the island of Tobago. Just gorgeous. <br />
+<br />
+The Asa Wright Nature Centre, on Trinidad, is such an amazing place!  We stayed in cabins up or down hill from the main building.  Really, one doesn&#039;t need to travel away from the Centre for birding, as so many different species visit the Hummingbird feeders that are right by the huge, open veranda, and the trees of the rain forest high up the mountainous road.  The drive up and down this narrow, twisting, pot-holed road was an adventure in itself!  Never would I ever do this drive myself - we had a guide who drove us everywhere in a minibus.  I had read many accounts of this road, lol!  There was enough room for two vehicles to pass each other, and the honking of horns was almost continuous - either to warn any vehicle that might be coming fast around the next bend or as a sign that drivers knew each other.  The drive along this road, from the coast to Asa Wright, took just over an hour each way.<br />
+<br />
+I still sometimes think about the great food that was provided every single day at Asa Wright and even the Rum Punch that appeared each evening.  I never drink at all, so I wasn&#039;t sure if I would even try the Punch - glad I did, though, as it was delicious and refreshing.  Breakfast, lunch and dinner were all served buffet-style, with a great variety of dishes from which to choose.  To me, pure luxury.  So very, very grateful to have been invited to be part of this amazing adventure.<br />
+<br />
+This is a video that I came across on YouTube, taken by Rigdon Currie and Trish Johnson, at many of the same places we visited on Trinidad and Tobago.  Not my video, but it made me feel like I was right there still.  Posting the link here again, so that I won&#039;t lose it.&amp;quot;  <br />
+<br />
+&lt;a href=&quot;https://youtu.be/BBifhf99f_M&quot; rel=&quot;noreferrer nofollow&quot;&gt;youtu.be/BBifhf99f_M&lt;/a&gt;<br />
+<br />
+I also came across the following 27-minute YouTube video of the flora and fauna of Trinidad, filmed by John Patrick Smith in February 2015.<br />
+<br />
+&lt;a href=&quot;https://youtu.be/6HHBm9MIxnk&quot; rel=&quot;noreferrer nofollow&quot;&gt;youtu.be/6HHBm9MIxnk&lt;/a&gt;
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/annkelliott/52713220108/"><img src="https://live.staticflickr.com/65535/52713220108_06e90e3410.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/annkelliott/52713220108/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/annkelliott/52713220108/">Open photo page</a></td></tr></table>
+					Continuing to grab a few more photos from my archives. Then, already saved to a hard drive, I can delete them from my computer to make some much-needed free space.<br />
+<br />
+&amp;quot;This adventure was only the second holiday of any kind, anywhere, that I have had in something like 30 or 35 years!  The other holiday was a wonderful, one-week trip with my dear friends from England, Linda and Tony, when we went down south to Yellowstone National Park and the Grand Tetons in September 2012.  I have had maybe half a dozen weekends away, including to Waterton National Park, which have helped keep me going.  <br />
+<br />
+Six birding/photographer friends and I decided that we would take this exciting trip together (from 12-21 March 2017), spending the first two or three days on the island of Tobago and then the rest of the time at the Asa Wright Nature Centre on the nearby, much larger island of Trinidad.  We decided to take a complete package, so everything was included - accommodation at both places, all our food, and the various walks and day trips that we could choose from.  Two of my friends, Anne B. and Brenda, saw to all the planning of flights and accommodations, which was so very much appreciated by the rest of us.  I could never have done all this myself! We were so lucky with our flights, as we were just in time to get Black Friday prices, which were 50% off!  <br />
+<br />
+What a time we had, seeing so many beautiful and interesting things - and, of course, everything was a lifer for me.  Some of these friends had visited Costa Rica before, so were familiar with some of the birds.  There was a lot more to see on Trinidad, so we were glad that we chose Tobago to visit first and then spend a longer time at Asa Wright.  It was wonderful to be right by the sea, though, at the Blue Waters Inn on the island of Tobago. Just gorgeous. <br />
+<br />
+The Asa Wright Nature Centre, on Trinidad, is such an amazing place!  We stayed in cabins up or down hill from the main building.  Really, one doesn&#039;t need to travel away from the Centre for birding, as so many different species visit the Hummingbird feeders that are right by the huge, open veranda, and the trees of the rain forest high up the mountainous road.  The drive up and down this narrow, twisting, pot-holed road was an adventure in itself!  Never would I ever do this drive myself - we had a guide who drove us everywhere in a minibus.  I had read many accounts of this road, lol!  There was enough room for two vehicles to pass each other, and the honking of horns was almost continuous - either to warn any vehicle that might be coming fast around the next bend or as a sign that drivers knew each other.  The drive along this road, from the coast to Asa Wright, took just over an hour each way.<br />
+<br />
+I still sometimes think about the great food that was provided every single day at Asa Wright and even the Rum Punch that appeared each evening.  I never drink at all, so I wasn&#039;t sure if I would even try the Punch - glad I did, though, as it was delicious and refreshing.  Breakfast, lunch and dinner were all served buffet-style, with a great variety of dishes from which to choose.  To me, pure luxury.  So very, very grateful to have been invited to be part of this amazing adventure.<br />
+<br />
+This is a video that I came across on YouTube, taken by Rigdon Currie and Trish Johnson, at many of the same places we visited on Trinidad and Tobago.  Not my video, but it made me feel like I was right there still.  Posting the link here again, so that I won&#039;t lose it.&amp;quot;  <br />
+<br />
+&lt;a href=&quot;https://youtu.be/BBifhf99f_M&quot; rel=&quot;noreferrer nofollow&quot;&gt;youtu.be/BBifhf99f_M&lt;/a&gt;<br />
+<br />
+I also came across the following 27-minute YouTube video of the flora and fauna of Trinidad, filmed by John Patrick Smith in February 2015.<br />
+<br />
+&lt;a href=&quot;https://youtu.be/6HHBm9MIxnk&quot; rel=&quot;noreferrer nofollow&quot;&gt;youtu.be/6HHBm9MIxnk&lt;/a&gt;<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> March 20th, 2017&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=71833159@N00&amp;format=kml_nl&amp;lang=en-us"><b>annkelliott</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=trinidad&amp;format=kml_nl&amp;lang=en-us">trinidad</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=island&amp;format=kml_nl&amp;lang=en-us">island</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=caribbean&amp;format=kml_nl&amp;lang=en-us">caribbean</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=westindies&amp;format=kml_nl&amp;lang=en-us">westindies</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-61.297702,10.716610</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52713112233</styleUrl>
+			<name>Florida Bird Pictures</name>
+			<Snippet maxLines="4">
+				Osprey (sea hawk) (Pandion haliaetus)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/patchais/52713112233/"><img src="https://live.staticflickr.com/65535/52713112233_038467b629.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/patchais/52713112233/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/patchais/52713112233/">Open photo page</a></td></tr></table>
+					Osprey (sea hawk) (Pandion haliaetus)<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 20th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=82393004@N02&amp;format=kml_nl&amp;lang=en-us"><b>patchais</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=florida&amp;format=kml_nl&amp;lang=en-us">florida</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=pictures&amp;format=kml_nl&amp;lang=en-us">pictures</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=osprey&amp;format=kml_nl&amp;lang=en-us">osprey</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-82.761425,27.595468</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52712106857</styleUrl>
+			<name>Florida Bird Pictures</name>
+			<Snippet maxLines="4">
+				Juvenile royal tern (Thalasseus maximus)
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/patchais/52712106857/"><img src="https://live.staticflickr.com/65535/52712106857_171a72f18f.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/patchais/52712106857/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/patchais/52712106857/">Open photo page</a></td></tr></table>
+					Juvenile royal tern (Thalasseus maximus)<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 20th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=82393004@N02&amp;format=kml_nl&amp;lang=en-us"><b>patchais</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=florida&amp;format=kml_nl&amp;lang=en-us">florida</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=pictures&amp;format=kml_nl&amp;lang=en-us">pictures</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=juvenile&amp;format=kml_nl&amp;lang=en-us">juvenile</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-82.743530,27.651068</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52712315138</styleUrl>
+			<name>Verdin de Hardwicke - Doi Pha Hom Pok/Chiang Mai/TH_20191207_020-1</name>
+			<Snippet maxLines="4">
+				... ou Verdin de Hardwick<br />
+<br />
+Chloropsis hardwickii<br />
+Orange-bellied Leafbird<br />
+Orangebauch-Blattvogel<br />
+Verdín de Hardwicke<br />
+Оранжевобрюхая листовка
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/107784905@N04/52712315138/"><img src="https://live.staticflickr.com/65535/52712315138_59f0fe4ee3.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/107784905@N04/52712315138/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/107784905@N04/52712315138/">Open photo page</a></td></tr></table>
+					... ou Verdin de Hardwick<br />
+<br />
+Chloropsis hardwickii<br />
+Orange-bellied Leafbird<br />
+Orangebauch-Blattvogel<br />
+Verdín de Hardwicke<br />
+Оранжевобрюхая листовка<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> December 7th, 2019&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=107784905@N04&amp;format=kml_nl&amp;lang=en-us"><b>Patrick Monney</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=verdindehardwicke&amp;format=kml_nl&amp;lang=en-us">verdindehardwicke</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=verdindehardwick&amp;format=kml_nl&amp;lang=en-us">verdindehardwick</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=chloropsishardwickii&amp;format=kml_nl&amp;lang=en-us">chloropsishardwickii</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=orangebelliedleafbird&amp;format=kml_nl&amp;lang=en-us">orangebelliedleafbird</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>99.097344,20.073477</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52709919057</styleUrl>
+			<name>AC92B643-F4AC-45F4-99F6-19B03F8C17C1</name>
+			<Snippet maxLines="4">
+				Curved bill thrasher
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/lakeworth/52709919057/"><img src="https://live.staticflickr.com/65535/52709919057_4731594f47.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/lakeworth/52709919057/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/lakeworth/52709919057/">Open photo page</a></td></tr></table>
+					Curved bill thrasher<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 25th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=93689361@N05&amp;format=kml_nl&amp;lang=en-us"><b>Verde River</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=rosefinch&amp;format=kml_nl&amp;lang=en-us">rosefinch</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=finch&amp;format=kml_nl&amp;lang=en-us">finch</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=gambel&amp;format=kml_nl&amp;lang=en-us">gambel</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=curvedbillthrasher&amp;format=kml_nl&amp;lang=en-us">curvedbillthrasher</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-110.917800,31.935697</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52710211045</styleUrl>
+			<name>Redwing</name>
+			<Snippet maxLines="4">
+				Plaine de Sorques, Seine-et-Marne, France, February 2023
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/189076226@N07/52710211045/"><img src="https://live.staticflickr.com/65535/52710211045_6b4eb26bbc.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/189076226@N07/52710211045/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/189076226@N07/52710211045/">Open photo page</a></td></tr></table>
+					Plaine de Sorques, Seine-et-Marne, France, February 2023<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 8th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=189076226@N07&amp;format=kml_nl&amp;lang=en-us"><b>alexandra.grossman</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=redwing&amp;format=kml_nl&amp;lang=en-us">redwing</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=turdusiliacus&amp;format=kml_nl&amp;lang=en-us">turdusiliacus</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=grivemauvis&amp;format=kml_nl&amp;lang=en-us">grivemauvis</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>2.775994,48.344283</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52710121145</styleUrl>
+			<name>Great Tit</name>
+			<Snippet maxLines="4">
+				In the woods...Dalziel Estate, Motherwell
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/89982680@N08/52710121145/"><img src="https://live.staticflickr.com/65535/52710121145_e96a81679f.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/89982680@N08/52710121145/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/89982680@N08/52710121145/">Open photo page</a></td></tr></table>
+					In the woods...Dalziel Estate, Motherwell<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 24th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=89982680@N08&amp;format=kml_nl&amp;lang=en-us"><b>Aidanos</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=greattit&amp;format=kml_nl&amp;lang=en-us">greattit</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=aves&amp;format=kml_nl&amp;lang=en-us">aves</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=passeriformes&amp;format=kml_nl&amp;lang=en-us">passeriformes</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=paridae&amp;format=kml_nl&amp;lang=en-us">paridae</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-3.985075,55.774993</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52709941885</styleUrl>
+			<name>Oystercatchers</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/shanejones/52709941885/"><img src="https://live.staticflickr.com/65535/52709941885_6560c93e73.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/shanejones/52709941885/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/shanejones/52709941885/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 23rd, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=18805800@N05&amp;format=kml_nl&amp;lang=en-us"><b>Shane Jones</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=oystercatchers&amp;format=kml_nl&amp;lang=en-us">oystercatchers</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=birdinflight&amp;format=kml_nl&amp;lang=en-us">birdinflight</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=wader&amp;format=kml_nl&amp;lang=en-us">wader</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-4.247864,52.249094</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52709582918</styleUrl>
+			<name>Golden-crowned Tanager (Iridosornis rufivertex)</name>
+			<Snippet maxLines="4">
+				This species travels in small groups. We saw at least four individuals of this species feeding close to each other.<br />
+<br />
+&lt;a href=&quot;http://www.BirdsByDavidAndFloy.com&quot; rel=&quot;noreferrer nofollow&quot;&gt;www.BirdsByDavidAndFloy.com&lt;/a&gt;
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/dzittin/52709582918/"><img src="https://live.staticflickr.com/65535/52709582918_3166ce9765.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/dzittin/52709582918/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/dzittin/52709582918/">Open photo page</a></td></tr></table>
+					This species travels in small groups. We saw at least four individuals of this species feeding close to each other.<br />
+<br />
+&lt;a href=&quot;http://www.BirdsByDavidAndFloy.com&quot; rel=&quot;noreferrer nofollow&quot;&gt;www.BirdsByDavidAndFloy.com&lt;/a&gt;<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 3rd, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=88537019@N00&amp;format=kml_nl&amp;lang=en-us"><b>dzittin</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=goldencrowned&amp;format=kml_nl&amp;lang=en-us">goldencrowned</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=tanager&amp;format=kml_nl&amp;lang=en-us">tanager</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=iridosornis&amp;format=kml_nl&amp;lang=en-us">iridosornis</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=rufivertex&amp;format=kml_nl&amp;lang=en-us">rufivertex</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-73.825337,4.845537</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52708551082</styleUrl>
+			<name>Eurasian Wigeon</name>
+			<Snippet maxLines="4">
+				Eurasian Wigeon (Mareca penelope) at Titlow Park
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/maritimeorca/52708551082/"><img src="https://live.staticflickr.com/65535/52708551082_d370239115.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/maritimeorca/52708551082/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/maritimeorca/52708551082/">Open photo page</a></td></tr></table>
+					Eurasian Wigeon (Mareca penelope) at Titlow Park<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 19th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=61396634@N07&amp;format=kml_nl&amp;lang=en-us"><b>maritimeorca</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=anaspenelope&amp;format=kml_nl&amp;lang=en-us">anaspenelope</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=animal&amp;format=kml_nl&amp;lang=en-us">animal</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=duck&amp;format=kml_nl&amp;lang=en-us">duck</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-122.550784,47.249380</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52709354268</styleUrl>
+			<name>Taking a small jump</name>
+			<Snippet maxLines="4">
+				
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/pierre_et_nelly/52709354268/"><img src="https://live.staticflickr.com/65535/52709354268_34ca0950d1.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/pierre_et_nelly/52709354268/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/pierre_et_nelly/52709354268/">Open photo page</a></td></tr></table>
+					<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 24th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=29894834@N05&amp;format=kml_nl&amp;lang=en-us"><b>pierre_et_nelly</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=anthusberthelotii&amp;format=kml_nl&amp;lang=en-us">anthusberthelotii</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=berthelotspipit&amp;format=kml_nl&amp;lang=en-us">berthelotspipit</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bisbitacaminero&amp;format=kml_nl&amp;lang=en-us">bisbitacaminero</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bisbitadeberthelot&amp;format=kml_nl&amp;lang=en-us">bisbitadeberthelot</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-14.095078,28.379644</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52708923034</styleUrl>
+			<name>Male Brambling</name>
+			<Snippet maxLines="4">
+				For many of us in Britain, the Brambling counts as a less frequent bird, and often one of the countryside rather than gardens. Plus the fact that it is absent in summer, preferring to breed away from our shores, mainly in Russia and Scandinavia.<br />
+<br />
+The female counterpart has a far more paler look, especially around the head.<br />
+<br />
+Warnham, West Sussex<br />
+8th February 2023<br />
+<br />
+<br />
+20230208 2I8A 0079 Warnham
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/flickrway/52708923034/"><img src="https://live.staticflickr.com/65535/52708923034_15556b9f6d.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/flickrway/52708923034/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/flickrway/52708923034/">Open photo page</a></td></tr></table>
+					For many of us in Britain, the Brambling counts as a less frequent bird, and often one of the countryside rather than gardens. Plus the fact that it is absent in summer, preferring to breed away from our shores, mainly in Russia and Scandinavia.<br />
+<br />
+The female counterpart has a far more paler look, especially around the head.<br />
+<br />
+Warnham, West Sussex<br />
+8th February 2023<br />
+<br />
+<br />
+20230208 2I8A 0079 Warnham<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 8th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=86182676@N00&amp;format=kml_nl&amp;lang=en-us"><b>ƒliçkrwåy</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=nature&amp;format=kml_nl&amp;lang=en-us">nature</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=warnham&amp;format=kml_nl&amp;lang=en-us">warnham</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=brambling&amp;format=kml_nl&amp;lang=en-us">brambling</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-0.332937,51.080139</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52708739828</styleUrl>
+			<name>WOODY WOOD PECKER</name>
+			<Snippet maxLines="4">
+				Pileated woodpeckers often chip out large and roughly rectangular holes in trees while searching out insects, especially ant colonies.
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/nflravens/52708739828/"><img src="https://live.staticflickr.com/65535/52708739828_fa14afe93a.jpg" /></a>
+					<table border="0" padding="0" width="385"><tr><td align="right"><a href="https://www.flickr.com/photos/nflravens/52708739828/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/nflravens/52708739828/">Open photo page</a></td></tr></table>
+					Pileated woodpeckers often chip out large and roughly rectangular holes in trees while searching out insects, especially ant colonies.<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> April 30th, 2018&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=24379925@N08&amp;format=kml_nl&amp;lang=en-us"><b>nflravens</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=pileatedwoodpecker&amp;format=kml_nl&amp;lang=en-us">pileatedwoodpecker</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=nflravens&amp;format=kml_nl&amp;lang=en-us">nflravens</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=billhunterphotography&amp;format=kml_nl&amp;lang=en-us">billhunterphotography</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=billhunter&amp;format=kml_nl&amp;lang=en-us">billhunter</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-76.159353,39.262319</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52707591667</styleUrl>
+			<name>Coot</name>
+			<Snippet maxLines="4">
+				Four members of a flotilla of about 200 American Coots dabbling along the shoreline of Caesar Creek lake in Warren County, Ohio.  Coots are duck-like members of the Rail Family.
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/s5200/52707591667/"><img src="https://live.staticflickr.com/65535/52707591667_fd87fcc9ec.jpg" /></a>
+					<table border="0" padding="0" width="500"><tr><td align="right"><a href="https://www.flickr.com/photos/s5200/52707591667/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/s5200/52707591667/">Open photo page</a></td></tr></table>
+					Four members of a flotilla of about 200 American Coots dabbling along the shoreline of Caesar Creek lake in Warren County, Ohio.  Coots are duck-like members of the Rail Family.<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 11th, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=33048856@N05&amp;format=kml_nl&amp;lang=en-us"><b>Picsnapper1212</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=americancoot&amp;format=kml_nl&amp;lang=en-us">americancoot</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=coot&amp;format=kml_nl&amp;lang=en-us">coot</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=bird&amp;format=kml_nl&amp;lang=en-us">bird</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=waterfowl&amp;format=kml_nl&amp;lang=en-us">waterfowl</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-84.011925,39.514669</coordinates>
+			</Point>
+		</Placemark>
+		
+				<Placemark>
+			<styleUrl>#styleMap/photo/52706891184</styleUrl>
+			<name>484B03F9-0D6C-4481-B6EE-BE9C20912290</name>
+			<Snippet maxLines="4">
+				American kestrel
+			</Snippet> 
+  			<description>
+					<a href="https://www.flickr.com/photos/lakeworth/52706891184/"><img src="https://live.staticflickr.com/65535/52706891184_f84a61d4fe.jpg" /></a>
+					<table border="0" padding="0" width="347"><tr><td align="right"><a href="https://www.flickr.com/photos/lakeworth/52706891184/"><img width="13" height="10" src="https://combo.staticflickr.com/pw/images/simple_new_window_default.gif" /></a> <a href="https://www.flickr.com/photos/lakeworth/52706891184/">Open photo page</a></td></tr></table>
+					American kestrel<br />
+					<hr />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/spaceball.gif" /> <font color="#999999">Taken on</font> February 23rd, 2023&amp;nbsp;<font color="#999999">by</font>&amp;nbsp;<a href="https://www.flickr.com/services/feeds/geo/?id=93689361@N05&amp;format=kml_nl&amp;lang=en-us"><b>Verde River</b></a><br />
+					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_tag_left.gif" />  <a href="https://www.flickr.com/services/feeds/geo/?tags=americankestrel&amp;format=kml_nl&amp;lang=en-us">americankestrel</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=cactuswren&amp;format=kml_nl&amp;lang=en-us">cactuswren</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=rabbit&amp;format=kml_nl&amp;lang=en-us">rabbit</a>,&amp;nbsp; <a href="https://www.flickr.com/services/feeds/geo/?tags=nature&amp;format=kml_nl&amp;lang=en-us">nature</a> ...<br />					<img width="15" height="15" src="https://combo.staticflickr.com/pw/images/icon_public.gif" id="img_perms"/> <font color="#999999"> Anyone can see this location</font>
+			</description>
+			<Point>
+				<coordinates>-110.759114,31.931072</coordinates>
+			</Point>
+		</Placemark>
+
+</Document>
+</kml>
